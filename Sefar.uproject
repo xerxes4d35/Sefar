@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
 	"FileVersion": 3,
 	"EngineAssociation": "5.0EA",
@@ -19,26 +18,4 @@
 			"Enabled": true
 		}
 	]
-=======
-{
-	"FileVersion": 3,
-	"EngineAssociation": "5.0",
-	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "Bridge",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
-		},
-		{
-			"Name": "DatasmithFBXImporter",
-			"Enabled": true
-		}
-	]
->>>>>>> Master
 }
