@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "5.0EA",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -15,6 +15,10 @@
 		},
 		{
 			"Name": "DatasmithFBXImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "Metasound",
 			"Enabled": true
 		}
 	]
